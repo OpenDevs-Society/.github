@@ -10,10 +10,10 @@
   </p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge&logo=github" alt="Status" />
-    <img src="https://img.shields.io/badge/Open_Source-❤️-blue?style=for-the-badge&logo=open-source-initiative" alt="Open Source" />
-    <img src="https://img.shields.io/badge/Contributions-Welcome-orange?style=for-the-badge&logo=git" alt="Contributions Welcome" />
-    <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" alt="License" />
+    <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/badges/status.svg" alt="Status: Active" />
+    <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/badges/opensource.svg" alt="Open Source" />
+    <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/badges/contributions.svg" alt="Contributions Welcome" />
+    <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/badges/license.svg" alt="License: MIT" />
   </p>
 
 </div>
@@ -85,7 +85,7 @@ Farklı uzmanlıklara sahip geliştiricileri tek bir çatı altında toplayarak;
     </td>
     <td align="center" width="200">
       <a href="https://github.com/Enard-Hades">
-        <img src="https://img.icons8.com/bubbles/100/add-user-male.png" width="100px;" alt="You" /><br />
+        <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/new-member.svg" width="100px;" alt="You" /><br />
         <sub><b>Gelecek Üyeler</b></sub>
       </a><br />
       <sub>Topluluk Katılımcıları</sub>
