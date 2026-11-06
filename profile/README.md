@@ -10,10 +10,10 @@
   </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/badges/status.svg" alt="Status: Active" />
-    <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/badges/opensource.svg" alt="Open Source" />
-    <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/badges/contributions.svg" alt="Contributions Welcome" />
-    <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/badges/license.svg" alt="License: MIT" />
+    <img src="https://raw.githubusercontent.com/OpenDevs-Society/.github/main/assets/badges/status.svg" alt="Status: Active" />
+    <img src="https://raw.githubusercontent.com/OpenDevs-Society/.github/main/assets/badges/opensource.svg" alt="Open Source" />
+    <img src="https://raw.githubusercontent.com/OpenDevs-Society/.github/main/assets/badges/contributions.svg" alt="Contributions Welcome" />
+    <img src="https://raw.githubusercontent.com/OpenDevs-Society/.github/main/assets/badges/license.svg" alt="License: MIT" />
   </p>
 
 </div>
@@ -84,8 +84,8 @@ Farklı uzmanlıklara sahip geliştiricileri tek bir çatı altında toplayarak;
       <sub>Core Developer</sub>
     </td>
     <td align="center" width="200">
-      <a href="https://github.com/Enard-Hades">
-        <img src="https://raw.githubusercontent.com/Enard-Hades/.github/main/assets/new-member.svg" width="100px;" alt="You" /><br />
+      <a href="https://github.com/OpenDevs-Society">
+        <img src="https://raw.githubusercontent.com/OpenDevs-Society/.github/main/assets/new-member.svg" width="100px;" alt="You" /><br />
         <sub><b>Gelecek Üyeler</b></sub>
       </a><br />
       <sub>Topluluk Katılımcıları</sub>
